@@ -33,3 +33,16 @@ li.freelancer-item {
 p#averagePrice {
     margin-top: 20px;
 }
+
+
+.subsections {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.subsections span {
+    flex: 1;
+    text-align: center;
+}
+
